@@ -17,10 +17,12 @@ To deploy this project . Just go to code and copy the url link and clone it in y
 
 
 ## Screenshots
+![player](https://github.com/SteinerDiamine/Adventure-2d/assets/160833423/daf60573-9a9b-48d5-a765-76b6f3c43c25)
 
-https://t.me/c/1610884831/88
+
 
 
 ## Features
 
 For now the feature are limited to just exploring the world Map
+
